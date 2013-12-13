@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
+source 'https://rails-assets.org'
 
 gem 'rails', '4.0.2'
 
@@ -13,3 +14,5 @@ gem 'jbuilder', '~> 1.2'
 group :doc do
   gem 'sdoc', require: false
 end
+
+gem 'rails-assets-bootstrap'
